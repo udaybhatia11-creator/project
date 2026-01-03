@@ -13,7 +13,7 @@ function add_section(...args) {
 
 
 // dynamic loading of html files in pages
-pages = [['p1',['section1_header.html','hello.html']]];
+pages = [['p1',['Upreach.html','index.html']]];
 
 for(i=0;i<pages[0][1].length;i++){
 fetch("../HTML/".concat(pages[0][1][i]))
