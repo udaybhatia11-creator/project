@@ -3,5 +3,5 @@ document.getElementById("contactBtn")?.addEventListener("click", function () {
 });
 
 function goHome() {
-  window.location.href = "index.html";
+  window.location.href = "Upreach.html";
 }
