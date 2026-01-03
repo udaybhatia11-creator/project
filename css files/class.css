@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0e2a32;
+    color: white;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+}
+
+.navbar a {
+    margin-left: 20px;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+}
+
+.hero {
+    padding: 80px 40px;
+}
+
+.hero h1 {
+    font-size: 48px;
+}
+
+.hero p {
+    color: #ccc;
+    width: 60%;
+}
+
+.btn {
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    background: #6adf8f;
+}
